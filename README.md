@@ -42,7 +42,7 @@ Still early in my journey — learning by **building fast and shipping real syst
 </p>
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/800/https://voltaire-atlas.vercel.app/" />
+  <img src="https://ibb.co/KpfhbvwD" />
 </p>
 
 - AI-powered tutoring system with adaptive learning flows  
