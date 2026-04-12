@@ -45,6 +45,7 @@ Still early in my journey — learning by **building fast and shipping real syst
   <img src="https://i.postimg.cc/T3JJFmnB/atlas-ss-git.png" />
 </p>
 
+- Agentic Gamification
 - AI-powered tutoring system with adaptive learning flows  
 - State-based tracking of student progress  
 - Real-time grading + resource generation  
