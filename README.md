@@ -42,7 +42,7 @@ Still early in my journey — learning by **building fast and shipping real syst
 </p>
 
 <p align="center">
-  <img src="https://postimg.cc/hXhm7Xy0" />
+  <img src="https://i.postimg.cc/T3JJFmnB/atlas-ss-git.png" />
 </p>
 
 - AI-powered tutoring system with adaptive learning flows  
