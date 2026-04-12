@@ -1,7 +1,7 @@
 # Hey! I'm Ahmad :)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%40+Hong+Kong;Exploring+Robotics+and+AI+Systems;Piling+up+the+stack+and+developing!;Always+Learning&center=true&width=520&height=50&color=F5F5F5&vCenter=true&pause=1200">
+  <img src="./assets/gitSVG.svg" />
 </p>
 
 <p align="center">
