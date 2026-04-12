@@ -1,7 +1,7 @@
 # Hey! I'm Ahmad :)
 
 <p align="center">
-  <img src="<img src="https://raw.githubusercontent.com/ahmad-rev0/assets/main/typing.svg" />" />
+  <img src=<img src="https://raw.githubusercontent.com/ahmad-rev0/assets/main/typing.svg"/>
 </p>
 
 <p align="center">
