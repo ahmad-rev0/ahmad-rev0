@@ -1,7 +1,7 @@
 # Hey! I'm Ahmad :)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%40+HKBU;Building+AI+%2B+Robotics+Systems;Full-Stack+Developer;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%40+Hong+Kong;Exploring+Robotics+and+AI+Systems;Piling+up+the+stack+and+developing!;Always+Learning&center=true&width=520&height=50&color=F5F5F5&vCenter=true&pause=1200">
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Still early in my journey — learning by **building fast and shipping real syst
 </p>
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/800/https://robofix.vercel.app/" />
+  <img src="https://i.postimg.cc/sgb3FQyh/robofix-ss-git.png" />
 </p>
 
 - ML-based anomaly detection for robotic systems  
