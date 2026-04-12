@@ -42,7 +42,7 @@ Still early in my journey — learning by **building fast and shipping real syst
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/KpfhbvwD" />
+  <img src="https://postimg.cc/hXhm7Xy0" />
 </p>
 
 - AI-powered tutoring system with adaptive learning flows  
