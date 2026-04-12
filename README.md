@@ -1,7 +1,7 @@
 # Hey! I'm Ahmad :)
 
 <p align="center">
-  <img src="./assets/gitSVG.svg" />
+  <img src="https://github.com/ahmad-rev0/assets/blob/main/gitSVG.svg" />
 </p>
 
 <p align="center">
