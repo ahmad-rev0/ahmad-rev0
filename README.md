@@ -42,7 +42,7 @@ Still early in my journey — learning by **building fast and shipping real syst
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/T3JJFmnB/atlas-ss-git.png" />
+  <img src="https://github.com/ahmad-rev0/assets/blob/main/atlas-ss-git-2.jpeg" />
 </p>
 
 - Agentic Gamification
