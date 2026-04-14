@@ -1,4 +1,4 @@
-# Hey! I'm Ahmad :)
+# Hey! I'm Ahmad :D
 
 <p align="center">
  <img src="https://github.com/ahmad-rev0/assets/blob/main/gitSVG.svg" alt="Typing animation">
