@@ -1,7 +1,7 @@
 # Hey! I'm Ahmad :)
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ahmad-rev0/assets/main/gitSVG.svg" alt="Typing animation">
+ <img src="https://github.com/ahmad-rev0/assets/blob/main/atlas-ss-git-2.jpeg" alt="Typing animation">
 </p>
 
 <p align="center">
